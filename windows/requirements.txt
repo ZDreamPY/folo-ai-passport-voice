@@ -1,0 +1,4 @@
+# AI Passport 语音遥控器 · 电脑端(托盘 + 设置面板 + 转发器)完整依赖
+sounddevice==0.5.6
+pystray==0.19.5
+Pillow==10.4.0

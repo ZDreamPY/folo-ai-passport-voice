@@ -1,0 +1,12 @@
+{
+  "hotkey_key": "right-shift",
+  "hotkey_mode": "hold",
+  "key_actions": {
+    "enter": "enter",
+    "alt_tab": "alt+tab"
+  },
+  "output_substr": "CABLE Input",
+  "udp_port": 33333,
+  "device_ip": "",
+  "alt_tab_hysteresis_ms": 1000
+}
